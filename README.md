@@ -18,10 +18,11 @@ This project uses Convolutional Neural Networks (CNN) to detect traffic signs an
 4. Upload your dataset or test with the sample image
 
 ## 📊 Output
-Insert some sample screenshots or results here.
+![Output](https://github.com/user-attachments/assets/c5ba9dad-53ef-4fa7-94f6-fdb5b5ddc565)
+
 
 ## 📁 Dataset
-The dataset is stored locally in the `dataset/` folder. [Link to Google Drive if dataset is too large for GitHub]
+The dataset is stored locally in the `dataset/` folder.
 
 ## 📎 Presentation
 PowerPoint presentation file: `Project PPT.pptx`
