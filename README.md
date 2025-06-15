@@ -22,8 +22,8 @@ This project uses Convolutional Neural Networks (CNN) to detect traffic signs an
 
 
 
-## 📁 Dataset
-The dataset is stored locally in the `dataset/` folder.
+## 📁 Dataset.
+Use testimages as dataset.
 
 ## 📎 Presentation
 PowerPoint presentation file: `Project PPT.pptx`
