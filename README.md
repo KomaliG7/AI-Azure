@@ -18,7 +18,8 @@ This project uses Convolutional Neural Networks (CNN) to detect traffic signs an
 4. Upload your dataset or test with the sample image
 
 ## 📊 Output
-![Output](https://github.com/user-attachments/assets/c5ba9dad-53ef-4fa7-94f6-fdb5b5ddc565)
+![Output](https://github.com/user-attachments/assets/5e0f5504-b57d-4bba-a8cf-b286e82525de)
+
 
 
 ## 📁 Dataset
